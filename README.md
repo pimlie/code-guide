@@ -18,7 +18,7 @@ Also when working with other developers, I often find myself explaining the same
 
 ### Should I read this guide?
 
-That's up to you, but if you do don' yourselft use this guide as your only source of truth. The things written down in this guide is what I (currently) believe is the best approach, but it's perfectly ok for you to disagree. Feel free to open an issue and discuss things.
+That's up to you, but if you do don't use this guide as your only source of truth. The things written down in this guide is what I (currently) believe is the best approach, but it's perfectly ok for you to disagree. Feel free to open an issue and discuss things.
 
 ### You write _this_, but this other guide with 5k+ stars says _that_
 
@@ -26,7 +26,7 @@ Yeah, probably a case of _agree to disagree_. Again, feel free to open an issue 
 
 ### I checked the code in your _repoX_ and you aren't using your own recommendations
 
-~One word~~ Two words: _progressive insights_
+~~One word~~ Two words: _progressive insights_
 
 Also, this is a guide not a rulebook. For me the emphasis is not on _always writing the perfect code_, but more on _knowing when you are not writing perfect code and then being able to make a deliberate decision whether it is needed to refactor your code or to just choose not to_.
 
